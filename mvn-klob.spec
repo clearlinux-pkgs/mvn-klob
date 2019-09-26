@@ -4,7 +4,7 @@
 #
 Name     : mvn-klob
 Version  : 0.2.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/com/github/shyiko/klob/klob/0.2.1/klob-0.2.1-sources.jar
 Source0  : https://repo1.maven.org/maven2/com/github/shyiko/klob/klob/0.2.1/klob-0.2.1-sources.jar
 Source1  : https://repo1.maven.org/maven2/com/github/shyiko/klob/klob/0.2.1/klob-0.2.1.jar
